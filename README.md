@@ -5,6 +5,6 @@ is generated on adition of record. This was made for a job interview and was a l
 working with databases and GUI for the first time.
 
 ## Bugs:
-The add/remove/modify functions change database file correctly but do refresh the GUI frame correctly on modification/removal.
+The add/remove/modify functions change database file correctly but don't refresh the GUI frame correctly on modification/removal.
 
 
